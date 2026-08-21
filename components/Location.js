@@ -9,7 +9,7 @@ export default function Location() {
           <h2 className="section-title mt-2">A pasos del centro, en calma serrana</h2>
           <p className="mt-5 text-[15px] leading-relaxed text-night/80">
             Lado Soleado está ubicada en una zona residencial y tranquila de{" "}
-            <strong>La Falda, Córdoba</strong>, a aproximadamente <strong>8 cuadras del centro</strong>.
+            <strong>La Falda, Córdoba</strong>, a aproximadamente <strong>10 cuadras del centro</strong>.
             Un equilibrio ideal entre el descanso del entorno serrano y la cercanía a comercios,
             restaurantes, servicios y las propuestas turísticas de la ciudad.
           </p>

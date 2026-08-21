@@ -9,10 +9,10 @@ const ATTRACTIONS = [
   },
   {
     title: "Centro de La Falda",
-    desc: "Comercios, gastronomía y la tradicional avenida Edén, a solo 8 cuadras de la cabaña.",
+    desc: "Comercios, gastronomía y la tradicional avenida Edén, a solo 10 cuadras de la cabaña.",
   },
   {
-    title: "Fiesta Nacional del Chocolate",
+    title: "Fiesta Nacional del Alfajor",
     desc: "El evento más popular de la ciudad, con degustaciones, música y actividades cada año.",
   },
   {

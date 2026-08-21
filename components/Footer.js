@@ -41,7 +41,7 @@ export default function Footer() {
         <div>
           <p className="text-sm font-semibold uppercase tracking-wide text-white">Ubicación</p>
           <p className="mt-3 text-sm leading-relaxed">
-            Zona residencial de {SITE.locality}, a unas 8 cuadras del centro. {SITE.region}, {SITE.country}.
+            Zona residencial de {SITE.locality}, a unas 10 cuadras del centro. {SITE.region}, {SITE.country}.
           </p>
         </div>
       </div>

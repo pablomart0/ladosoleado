@@ -9,7 +9,7 @@ export const FAQ_ITEMS = [
   },
   {
     q: "¿A qué distancia está del centro de La Falda?",
-    a: "Se encuentra en una zona residencial y tranquila, a aproximadamente 8 cuadras del centro de La Falda, cerca de comercios, restaurantes y servicios.",
+    a: "Se encuentra en una zona residencial y tranquila, a aproximadamente 10 cuadras del centro de La Falda, cerca de comercios, restaurantes y servicios.",
   },
   {
     q: "¿Aceptan mascotas?",
