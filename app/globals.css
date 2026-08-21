@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  color: #1f2a24;
+  background-color: #fffaf3;
+}
+
+::selection {
+  background-color: #fd7f13;
+  color: white;
+}
+
+.container-page {
+  @apply mx-auto w-full max-w-6xl px-5 sm:px-8;
+}
+
+.btn {
+  @apply inline-flex items-center justify-center gap-2 rounded-full px-6 py-3 text-sm font-semibold tracking-wide transition-transform duration-150 ease-out active:scale-95;
+}
+
+.btn-whatsapp {
+  @apply btn bg-[#25D366] text-white shadow-lg shadow-green-900/10 hover:bg-[#1ebe57];
+}
+
+.btn-booking {
+  @apply btn bg-[#003580] text-white shadow-lg shadow-blue-900/10 hover:bg-[#00265c];
+}
+
+.btn-outline {
+  @apply btn border-2 border-white/80 text-white hover:bg-white/10;
+}
+
+.section-title {
+  @apply font-display text-3xl sm:text-4xl font-semibold text-night;
+}
+
+.section-eyebrow {
+  @apply text-xs font-bold uppercase tracking-[0.2em] text-sun-600;
+}

@@ -1,0 +1,13 @@
+node_modules
+.next
+out
+.vercel
+.env*.local
+npm-debug.log*
+.DS_Store
+Thumbs.db
+
+# Raw source media dropped at the repo root (originals). Optimized copies
+# used by the site live in public/images and public/videos instead.
+/WhatsApp Image*.jpeg
+/WhatsApp Video*.mp4
