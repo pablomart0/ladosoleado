@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { SITE, whatsappLink } from "@/lib/site";
+import { IconInstagram } from "./icons";
 
 const NAV = [
   { href: "#cabana", label: "La cabaña" },
@@ -25,6 +26,15 @@ export default function Header() {
           ))}
         </nav>
         <div className="hidden items-center gap-3 md:flex">
+          <a
+            href={SITE.instagramUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Seguinos en Instagram"
+            className="text-night/70 transition-colors hover:text-sun-600"
+          >
+            <IconInstagram />
+          </a>
           <a href={whatsappLink()} target="_blank" rel="noopener noreferrer" className="btn-whatsapp px-4 py-2 text-xs">
             WhatsApp
           </a>

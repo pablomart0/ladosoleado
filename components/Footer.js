@@ -1,4 +1,5 @@
 import { SITE, whatsappLink } from "@/lib/site";
+import { IconInstagram } from "./icons";
 
 export default function Footer() {
   return (
@@ -12,6 +13,16 @@ export default function Footer() {
             Cabaña de alquiler temporario en La Falda, Córdoba. Pileta privada, parque, asador y
             cochera a metros del centro y de las sierras del Valle de Punilla.
           </p>
+          <a
+            href={SITE.instagramUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Seguinos en Instagram"
+            className="mt-4 inline-flex items-center gap-2 text-sm text-white/70 hover:text-sun-300"
+          >
+            <IconInstagram />
+            @ladosoleado0
+          </a>
         </div>
         <div>
           <p className="text-sm font-semibold uppercase tracking-wide text-white">Explorar</p>
