@@ -1,10 +1,10 @@
 const ATTRACTIONS = [
   {
-    title: "Cristo Rey y vista panorámica",
+    title: "Cerro La Banderita",
     desc: "Uno de los miradores más conocidos de La Falda, con una vista amplia del valle y las sierras.",
   },
   {
-    title: "Camino de las Cornisas",
+    title: "Camino del Dragón",
     desc: "Recorrido escénico entre La Falda y Huerta Grande, muy elegido para caminar o andar en bici.",
   },
   {
