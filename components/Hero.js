@@ -21,7 +21,7 @@ export default function Hero() {
         </h1>
         <p className="mt-5 max-w-2xl text-base leading-relaxed text-white/90 sm:text-lg">
           Lado Soleado es una cabaña de alquiler temporario para hasta 5 huéspedes, en una zona
-          tranquila a 10 cuadras del centro de La Falda. Pileta de uso exclusivo, vista a las
+          tranquila a 5 cuadras de la avenida principal y 3 de la terminal de ómnibus. Pileta de uso exclusivo, vista a las
           sierras y el mejor punto de partida para recorrer el Valle de Punilla.
         </p>
 
@@ -39,7 +39,7 @@ export default function Hero() {
             ["5", "huéspedes"],
             ["2", "dormitorios"],
             ["1", "pileta privada"],
-            ["10", "cuadras al centro"],
+            ["5", "cuadras al centro"],
           ].map(([value, label]) => (
             <div key={label}>
               <dt className="font-display text-2xl font-bold text-sun-400">{value}</dt>

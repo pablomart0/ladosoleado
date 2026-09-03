@@ -9,7 +9,11 @@ const ATTRACTIONS = [
   },
   {
     title: "Centro de La Falda",
-    desc: "Comercios, gastronomía y la tradicional avenida Edén, a solo 10 cuadras de la cabaña.",
+    desc: "Comercios, gastronomía y la tradicional avenida Edén, a solo 5 cuadras de la cabaña.",
+  },
+  {
+    title: "Terminal de Ómnibus de La Falda",
+    desc: "A solo 3 cuadras de la cabaña, ideal si llegás en micro desde Córdoba u otras ciudades.",
   },
   {
     title: "Fiesta Nacional del Alfajor",
