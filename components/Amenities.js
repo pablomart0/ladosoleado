@@ -5,7 +5,7 @@ const ITEMS = [
   [IconBed, "2 dormitorios", "Uno con cama matrimonial y otro con individual + cucheta."],
   [IconPool, "Pileta privada", "Pileta de material de uso exclusivo durante toda la estadía."],
   [IconGrill, "Parque y asador", "Quincho techado con parrilla, ideal para el mediodía al aire libre."],
-  [IconCar, "Cochera", "Cochera propia dentro del predio, sin costo adicional."],
+  [IconCar, "Cochera para 1 auto", "Cochera propia dentro del predio para un vehículo, sin costo adicional."],
   [IconWifi, "Wi-Fi", "Conexión disponible en toda la cabaña."],
   [IconHeat, "Calefacción", "Tiro balanceado en los dormitorios y ventiladores en verano."],
   [IconPaw, "Pet friendly", "Aceptamos mascotas pequeñas, previa consulta."],

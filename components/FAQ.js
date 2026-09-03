@@ -25,7 +25,7 @@ export const FAQ_ITEMS = [
   },
   {
     q: "¿Hay cochera para el auto?",
-    a: "Sí, la cabaña cuenta con cochera propia dentro del predio, sin costo adicional.",
+    a: "Sí, la cabaña cuenta con cochera propia dentro del predio para un auto, sin costo adicional.",
   },
 ];
 

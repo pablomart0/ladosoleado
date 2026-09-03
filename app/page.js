@@ -39,7 +39,7 @@ export default function HomePage() {
     amenityFeature: [
       "Pileta privada",
       "Parque y asador",
-      "Cochera",
+      "Cochera para 1 auto",
       "Wi-Fi",
       "Calefacción",
       "Apto mascotas",

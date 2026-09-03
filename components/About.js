@@ -25,7 +25,8 @@ export default function About() {
             </p>
             <p>
               El exterior es uno de sus principales atractivos: <strong>pileta privada</strong> de
-              material, parque, asador y cochera, todo de uso exclusivo durante la estadía. Desde
+              material, parque, asador y cochera para 1 auto, todo de uso exclusivo durante la
+              estadía. Desde
               el parque se disfrutan hermosos atardeceres y una vista relajada hacia las sierras.
               Se aceptan mascotas pequeñas.
             </p>
