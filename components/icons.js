@@ -40,3 +40,6 @@ export const IconInstagram = () => (
 export const IconMap = () => (
   <Wrap><path d="M9 4 3 6v14l6-2 6 2 6-2V4l-6 2-6-2Z" /><path d="M9 4v14" /><path d="M15 6v14" /></Wrap>
 );
+export const IconShieldAlert = () => (
+  <Wrap><path d="M12 3l7 3v6c0 4.5-3 7.5-7 9-4-1.5-7-4.5-7-9V6l7-3Z" /><path d="M12 8v4.5" /><circle cx="12" cy="15.5" r="0.9" fill="currentColor" stroke="none" /></Wrap>
+);

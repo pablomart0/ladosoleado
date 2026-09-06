@@ -5,6 +5,7 @@ import Gallery from "@/components/Gallery";
 import Location from "@/components/Location";
 import NearbyAttractions from "@/components/NearbyAttractions";
 import FAQ, { FAQ_ITEMS } from "@/components/FAQ";
+import SecurityNotice from "@/components/SecurityNotice";
 import FinalCTA from "@/components/FinalCTA";
 import { SITE } from "@/lib/site";
 
@@ -64,6 +65,7 @@ export default function HomePage() {
       <Location />
       <NearbyAttractions />
       <FAQ />
+      <SecurityNotice />
       <FinalCTA />
     </>
   );

@@ -58,7 +58,13 @@ export default function Footer() {
         </div>
       </div>
       <div className="border-t border-white/10 py-6 text-center text-xs text-white/50">
-        © {new Date().getFullYear()} Lado Soleado — Cabaña en La Falda, Córdoba. Todos los derechos reservados.
+        <p className="mx-auto max-w-2xl px-5">
+          Evitá estafas: solo atendemos por el WhatsApp {SITE.whatsappDisplay} publicado en esta web.
+          No transfieras sin validar que el contacto se realiza desde ese número.
+        </p>
+        <p className="mt-3">
+          © {new Date().getFullYear()} Lado Soleado — Cabaña en La Falda, Córdoba. Todos los derechos reservados.
+        </p>
       </div>
     </footer>
   );
