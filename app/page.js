@@ -27,7 +27,7 @@ export default function HomePage() {
     description:
       "Cabaña de alquiler temporario en La Falda, Córdoba, con pileta privada, parque, asador y cochera. Capacidad para 5 huéspedes en 2 dormitorios.",
     url: SITE.domain,
-    image: [`${SITE.domain}/images/pileta-2.jpg`, `${SITE.domain}/images/pileta-1.jpg`],
+    image: [`${SITE.domain}/images/quincho-pileta.jpg`, `${SITE.domain}/images/pileta-1.jpg`],
     telephone: `+${SITE.whatsappNumber}`,
     priceRange: "$$",
     petsAllowed: true,

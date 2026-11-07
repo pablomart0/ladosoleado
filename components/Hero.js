@@ -5,7 +5,7 @@ export default function Hero() {
   return (
     <section id="top" className="relative isolate flex min-h-[92vh] items-end overflow-hidden">
       <Image
-        src="/images/pileta-2.jpg"
+        src="/images/quincho-pileta.jpg"
         alt="Quincho techado con asador junto a la pileta privada de la cabaña Lado Soleado en La Falda, Córdoba"
         fill
         priority

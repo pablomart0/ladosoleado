@@ -46,13 +46,13 @@ export const metadata = {
     title: "Lado Soleado | Cabaña en La Falda, Córdoba con Pileta Privada",
     description:
       "Cabaña para hasta 5 personas en La Falda, Córdoba. Pileta privada, parque, asador y cochera a 5 cuadras del centro.",
-    images: [{ url: "/images/pileta-2.jpg", width: 1200, height: 800, alt: "Quincho y pileta privada de la cabaña Lado Soleado en La Falda" }],
+    images: [{ url: "/images/quincho-pileta.jpg", width: 1200, height: 800, alt: "Quincho y pileta privada de la cabaña Lado Soleado en La Falda" }],
   },
   twitter: {
     card: "summary_large_image",
     title: "Lado Soleado | Cabaña en La Falda, Córdoba",
     description: "Cabaña con pileta privada para hasta 5 personas en La Falda, Córdoba.",
-    images: ["/images/pileta-2.jpg"],
+    images: ["/images/quincho-pileta.jpg"],
   },
   robots: { index: true, follow: true },
 };
