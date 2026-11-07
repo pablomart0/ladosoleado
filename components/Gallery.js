@@ -2,6 +2,7 @@ import Image from "next/image";
 
 const PHOTOS = [
   { src: "/images/pileta-1.jpg", alt: "Pileta privada de la cabaña Lado Soleado con solárium en La Falda", span: "sm:col-span-2 sm:row-span-2" },
+  { src: "/images/quincho-pileta.jpg", alt: "Quincho techado con asador junto a la pileta privada de la cabaña Lado Soleado" },
   { src: "/images/quincho-asador.jpg", alt: "Quincho techado con parrilla y mesa exterior en la cabaña de La Falda" },
   { src: "/images/comedor.jpg", alt: "Comedor interior de la cabaña Lado Soleado" },
   { src: "/images/dormitorio-matrimonial.jpg", alt: "Dormitorio con cama matrimonial en la cabaña" },
